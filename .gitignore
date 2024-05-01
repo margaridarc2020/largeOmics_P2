@@ -1,3 +1,5 @@
 .snakemake/
 
 coucou.txt
+
+output.txt
